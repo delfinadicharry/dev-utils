@@ -1,6 +1,6 @@
 {
   "name": "@delfinadicharry/dev-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Librería de utilidades JavaScript",
   "main": "src/index.js",
   "type": "module",
