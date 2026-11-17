@@ -24,3 +24,7 @@ console.log(isValidEmail("usuario@email.com")); // true
 - `reverseText(texto)`: da vuelta un texto.
 - `isValidEmail(email)`: valida si un email tiene formato correcto.
 - `isEmpty(valor)`: verifica si un valor está vacío.
+
+## Licencia 
+
+ISC
