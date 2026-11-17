@@ -1,0 +1,16 @@
+{
+  "name": "@delfinadicharry/dev-utils",
+  "version": "1.0.0",
+  "description": "Librería de utilidades JavaScript",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "author": "delfinadicharry",
+  "license": "ISC"
+}
